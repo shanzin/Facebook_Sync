@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook_Sync</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1634519976764001</string>
+    <string name="LoginActivity_text_1">First, we need to authorize with Facebook.</string>
+    <string name="LoginActivity_text_2">To do this, we need you to login to your Facebook account.</string>
+</resources>
